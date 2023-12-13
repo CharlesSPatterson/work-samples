@@ -11,7 +11,7 @@ This repository will serve as a hub for development work that I've done over tim
           pip install flask-restful
 
   - The most revelant files to look at would be the following:
-    - [The Jupyter Notebook Writeup](https://github.com/CharlesSPatterson/work-samples/blob/main/fanduel-assessment-CSP/FanDuel%20Assessment%20Writeup.ipynb) (it's a bit long for an online preview, you may have to download it to see the full notebook)
+    - [The FanDuel Assessment Writeup](https://github.com/CharlesSPatterson/work-samples/blob/main/fanduel-assessment-CSP/FanDuel%20Assessment%20Writeup.md)
     - [api.py](https://github.com/CharlesSPatterson/work-samples/blob/main/fanduel-assessment-CSP/fanduel-app/api.py)
     - [nba.py](https://github.com/CharlesSPatterson/work-samples/blob/main/fanduel-assessment-CSP/fanduel-app/resources/nba.py)
     - [DepthCharts.py](https://github.com/CharlesSPatterson/work-samples/blob/main/fanduel-assessment-CSP/depthcharts/DepthCharts.py)
